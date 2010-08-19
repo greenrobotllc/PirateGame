@@ -1,0 +1,9 @@
+Ahoy Maties! To run the app you'll need to search the code for all places you see "CHANGEME" and replace them with your database username/password/facebook api keys/secret keys/canvas urls.
+
+The database schema is located in the file sql/db.sql
+
+I haven't included the images that are used in the Pirates game, so you'll need to find some images to use yourself.  Most of the images we use on the game are from stock photo sites, and some were custom illustrations by an artist.
+
+You'll also to need to download adodb for php and the facebook client code, and put that in the 'adodb', and '../client' folders.
+
+If you have any problems with the code, please get in contact with me.  Go make a cool Facebook game, or improve this one! If you make some improvements that you want to put live in the game that's already on Facebook, let me know and I can check them out.
